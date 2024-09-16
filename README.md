@@ -16,7 +16,7 @@ Aqui estão alguns dos meus projetos da FATEC mais recentes:
 
 - TRABALHO USANDO "SOMASES: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/Leonardo%20Lisboa%20GPI.xlsx)
 - TRABALHO USANDO DADOS ABERTOS: (https://github.com/leolisboagk/INFORMATICA-FATEC/blob/main/qtdesexamesrealizados.xlsx)
-- [Nome do projeto 3](link): Breve descrição do projeto.
+- INDÚSTRIA 4.0 (link): Breve descrição do projeto.
 
 Explore mais no [meu repositório](link para os repositórios).
 
